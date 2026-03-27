@@ -76,4 +76,19 @@ In high-density campus environments:
 This repository will be updated with:
 - Real-time troubleshooting cases  
 - AI-based log analysis (future work)  
-- Automation scripts for network optimization  
+- Automation scripts for network optimization
+
+- ---
+
+## 🏫 Case Study: High-Density Classroom Wi-Fi
+
+Issue:
+Frequent disconnections with ~40–50 clients per access point.
+
+Action Taken:
+- Reduced channel overlap  
+- Adjusted transmit power  
+- Optimized channel allocation  
+
+Result:
+Improved connection stability and reduced client drop-offs.
